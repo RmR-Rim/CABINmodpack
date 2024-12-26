@@ -1,0 +1,9 @@
+{
+  "type": "rechiseled:chiseling",
+  "entries": [
+    {
+      "item": "thermal:gunpowder_block"
+    }
+  ],
+  "overwrite": false
+}
